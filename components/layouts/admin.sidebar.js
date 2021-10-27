@@ -17,11 +17,11 @@ const AdminSidebar = () => {
     {/* Sidebar user panel (optional) */}
     <div className="user-panel mt-3 pb-3 mb-3 d-flex">
       <div className="image">
-        <Image src="/dist/img/user2-160x160.jpg" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
+        <Image src="/dist/img/icon.gif" className="img-circle elevation-2" alt="User Image" width={50} height={50} />
       </div>
       <div className="info">
       <Link href='#'>
-        <a className="d-block">Mr.Anuchat  Rungsiyanon</a>
+        <a className="d-block">ปัณณวิชญ์ มะลาง</a>
       </Link>
       </div>
     </div>
